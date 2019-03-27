@@ -1,0 +1,12 @@
+C:\Users\jasonh\source\repos\App247\App247\App247\bin\Debug\netstandard2.0\App247.deps.json
+C:\Users\jasonh\source\repos\App247\App247\App247\bin\Debug\netstandard2.0\App247.dll
+C:\Users\jasonh\source\repos\App247\App247\App247\bin\Debug\netstandard2.0\App247.pdb
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\App247.csproj.CoreCompileInputs.cache
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\App247.AssemblyInfoInputs.cache
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\App247.AssemblyInfo.cs
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\App247.dll
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\App247.pdb
+C:\Users\jasonh\source\repos\App247\App247\App247\obj\Debug\netstandard2.0\App247.csprojAssemblyReference.cache
